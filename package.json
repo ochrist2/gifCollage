@@ -1,0 +1,23 @@
+{
+  "name": "gif-image-collage",
+  "version": "1.0.0",
+  "description": "A react app that displays a collage of 25 GIFs that are retrieved from api.giphy.com. ",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material/react-text-field": "0.8.0",
+    "react": "16.5.2",
+    "react-dom": "16.5.2",
+    "react-flexbox-grid": "2.1.2",
+    "react-modal": "3.8.1",
+    "react-scripts": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}

@@ -1,2 +1,0 @@
-# gifCollage
-Created with CodeSandbox
